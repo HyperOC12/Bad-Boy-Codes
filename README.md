@@ -1,19 +1,19 @@
 ----
 <p align="center">
    <a href="https://github.com/Bad-Boy-Codes/">
-   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032" />
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032">
    <a />
    <a href="https://dsc.gg/badboy">
-   <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032" />
+   <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
-   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032" />
+   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
    <a />
    <br>
    <a href="https://discord.com/users/445073800850046977">
-   <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" />
+   <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
    <a />
-<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India. <h4/>
 </p>
+<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India. <h4/>
 <details>
 <summary>About Me</summary><br>
 ★ Currently working on discord bots and rest api<br></br>
@@ -22,7 +22,7 @@
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-   <img title="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img title="Suzumi" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
+   <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://dsc.gg/badboy" target="_blank">
    <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
