@@ -60,7 +60,8 @@ Tools/Apps with which I use most </><br>
 <a href="https://dsc.gg/badboy">
 <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
 </a>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/445073800850046977
+                            )](https://discord.com/users/445073800850046977)
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
