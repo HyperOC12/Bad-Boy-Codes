@@ -55,20 +55,21 @@ Tools/Apps with which I use most </><br>
 </a>
 
 ----
+<div align="center">
 <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
 <br></br>
 <a href="https://dsc.gg/badboy">
 <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
-</a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/445073800850046977
-                            )](https://discord.com/users/445073800850046977)
+</a><br><a href="https://discord.com/users/445073800850046977"><img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/445073800850046977" /></a>
+</div>
+
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=monokai" /><br>
    <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&line_height=21" /><br></br>
-   <a href="https://github.com/Bad-Boy-Codes">Profile Views</a><br></br>
-   <img src="https://profile-counter.glitch.me/Bad-Boy-Codes/count.svg" />
+   Profile Views<br></br>
+   <a href="https://github.com/Bad-Boy-Codes"><img src="https://profile-counter.glitch.me/Bad-Boy-Codes/count.svg" /></a>
 </div>
 </p>
 
