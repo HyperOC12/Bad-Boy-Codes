@@ -18,7 +18,7 @@
 <summary>About Me</summary><br>
 ★ Currently working on discord bots and rest api<br></br>
 ★ Otaku Weeb (Currently watching My Hero Academia)<br></br>
-★ <a href="https://bad-boy-codes.github.io">Website</a> (Developing)
+★ Websites: <a href="https://badboy.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
@@ -63,16 +63,13 @@ Tools/Apps with which I use most </><br>
 <br></br>
 <a href="https://dsc.gg/badboy">
 <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
-</a><br><a href="https://discord.com/users/445073800850046977"><img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/445073800850046977" /></a>
 </div>
 
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=monokai" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&line_height=21" /><br></br>
-   Profile Views<br></br>
-   <a href="https://github.com/Bad-Boy-Codes"><img src="https://profile-counter.glitch.me/Bad-Boy-Codes/count.svg" /></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=18161a" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
 </div>
 </p>
 
