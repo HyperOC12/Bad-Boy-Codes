@@ -13,11 +13,11 @@
    <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
    <a />
 </p>
-<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India.<h4/>
+<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
 <details>
 <summary>About Me</summary><br>
-★ Currently working on discord bots and rest api<br></br>
-★ Otaku Weeb (Currently watching My Hero Academia)<br></br>
+★ Currently working on websites and APIs<br></br>
+★ Otaku Weeb<br></br>
 ★ Websites: <a href="https://badboy.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
 </details>
 <p>
@@ -27,7 +27,7 @@
    <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
    <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://badboy.is-a.dev/api" target="_blank">
+   <a /><a href="https://api.badboy.is-a.dev/" target="_blank">
    <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
    <a />
 
