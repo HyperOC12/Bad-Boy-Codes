@@ -63,6 +63,7 @@ Tools/Apps with which I use most </><br>
 <br></br>
 <a href="https://dsc.gg/badboy">
 <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
+<a href="https://discord.com/users/445073800850046977"><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a>
 </div>
 
 ----
@@ -72,7 +73,7 @@ Tools/Apps with which I use most </><br>
    <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
 </div>
 </p>
-A snake eating my contribution graph
+A snake eating my contribution graph.
 
 ![snake gif](https://github.com/bad-boy-codes/bad-boy-codes/blob/output/github-contribution-grid-snake.svg)
 
