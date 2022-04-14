@@ -72,6 +72,10 @@ Tools/Apps with which I use most </><br>
    <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
 </div>
 </p>
+A snake eating my contribution graph
+
+![snake gif](https://github.com/bad-boy-codes/bad-boy-codes/blob/output/github-contribution-grid-snake.svg)
+
 
 ----
 Have a great day/night.
