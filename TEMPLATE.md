@@ -77,6 +77,23 @@ A snake eating my contribution graph.
 
 ![snake gif](https://github.com/bad-boy-codes/bad-boy-codes/blob/output/github-contribution-grid-snake.svg)
 
+### 🗣 Recent Activity
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, April 16th, 2022, 11:47:03 PM (Indian Standard Time)
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+1. ![prMerged] Merged PR [#338](https://github.com/InfusionBot/Welcome-Bot/pull/338) in [InfusionBot/Welcome-Bot](https://github.com/InfusionBot/Welcome-Bot)
+2. ![release] Released [Recent Activity v2.3.3 released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.3.3) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![prMerged] Merged PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![issueClosed] Closed issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![prMerged] Merged PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
+8. ![fork] Forked [PuneetGopinath/Web](https://github.com/PuneetGopinath/Web) from [KosmoD/Web](https://github.com/KosmoD/Web)
+9. ![fork] Forked [PuneetGopinath/reconlx-api](https://github.com/PuneetGopinath/reconlx-api) from [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
+10. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+<!--RECENT_ACTIVITY:end-->
+
 ### 🚀 Stats
 
 - Created my github account **{{ ACCOUNT_AGE }}** years ago.
