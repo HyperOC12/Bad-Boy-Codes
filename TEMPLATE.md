@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 16th, 2022, 11:47:03 PM (Indian Standard Time)
+Last Updated: Sunday, April 17th, 2022, 4:49:52 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#338](https://github.com/InfusionBot/Welcome-Bot/pull/338) in [InfusionBot/Welcome-Bot](https://github.com/InfusionBot/Welcome-Bot)
-2. ![release] Released [Recent Activity v2.3.3 released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.3.3) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prMerged] Merged PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![issueClosed] Closed issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prMerged] Merged PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
-8. ![fork] Forked [PuneetGopinath/Web](https://github.com/PuneetGopinath/Web) from [KosmoD/Web](https://github.com/KosmoD/Web)
-9. ![fork] Forked [PuneetGopinath/reconlx-api](https://github.com/PuneetGopinath/reconlx-api) from [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
-10. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+1. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+2. ![fork] Forked [Bad-Boy-Codes/BDFD-Apis](https://github.com/Bad-Boy-Codes/BDFD-Apis) from [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+3. ![prOpened] Opened PR [#2107](https://github.com/is-a-dev/register/pull/2107) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prOpened] Opened PR [#2101](https://github.com/is-a-dev/register/pull/2101) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![prOpened] Opened PR [#2066](https://github.com/is-a-dev/register/pull/2066) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![star] Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)
+7. ![repoCreated] Created new repository [Bad-Boy-Codes/Suzumi-Api](https://github.com/Bad-Boy-Codes/Suzumi-Api)
+8. ![prOpened] Opened PR [#47](https://github.com/is-a-good-dev/Register/pull/47) in [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register)
+9. ![fork] Forked [Bad-Boy-Codes/Register](https://github.com/Bad-Boy-Codes/Register) from [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register)
+10. ![repoCreated] Created new repository [Bad-Boy-Codes/my-web](https://github.com/Bad-Boy-Codes/my-web)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
