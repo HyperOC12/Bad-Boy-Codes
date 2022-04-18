@@ -79,18 +79,18 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 9:53:16 PM (Indian Standard Time)
+Last Updated: Monday, April 18th, 2022, 10:50:58 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [protyodev/botmanager](https://github.com/protyodev/botmanager)
-2. ![fork] Forked [BluecraftDev/pornhub-clone](https://github.com/BluecraftDev/pornhub-clone) from [Fuckrrr247/pornhub-clone](https://github.com/Fuckrrr247/pornhub-clone)
-3. ![fork] Forked [BluecraftDev/Private-Discord-Bot](https://github.com/BluecraftDev/Private-Discord-Bot) from [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
-4. ![fork] Forked [BluecraftDev/server-startup-scripts](https://github.com/BluecraftDev/server-startup-scripts) from [alaister-net/server-startup-scripts](https://github.com/alaister-net/server-startup-scripts)
-5. ![fork] Forked [BluecraftDev/yolks](https://github.com/BluecraftDev/yolks) from [alaister-net/yolks](https://github.com/alaister-net/yolks)
-6. ![star] Starred [alaister-net/yolks](https://github.com/alaister-net/yolks)
-7. ![star] Starred [BlackKnight683/Tickety](https://github.com/BlackKnight683/Tickety)
-8. ![star] Starred [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
-9. ![star] Starred [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats)
+1. ![fork] Forked [BluecraftDev/botmanager](https://github.com/BluecraftDev/botmanager) from [protyodev/botmanager](https://github.com/protyodev/botmanager)
+2. ![star] Starred [protyodev/botmanager](https://github.com/protyodev/botmanager)
+3. ![fork] Forked [BluecraftDev/pornhub-clone](https://github.com/BluecraftDev/pornhub-clone) from [Fuckrrr247/pornhub-clone](https://github.com/Fuckrrr247/pornhub-clone)
+4. ![fork] Forked [BluecraftDev/Private-Discord-Bot](https://github.com/BluecraftDev/Private-Discord-Bot) from [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
+5. ![fork] Forked [BluecraftDev/server-startup-scripts](https://github.com/BluecraftDev/server-startup-scripts) from [alaister-net/server-startup-scripts](https://github.com/alaister-net/server-startup-scripts)
+6. ![fork] Forked [BluecraftDev/yolks](https://github.com/BluecraftDev/yolks) from [alaister-net/yolks](https://github.com/alaister-net/yolks)
+7. ![star] Starred [alaister-net/yolks](https://github.com/alaister-net/yolks)
+8. ![star] Starred [BlackKnight683/Tickety](https://github.com/BlackKnight683/Tickety)
+9. ![star] Starred [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
 10. ![star] Starred [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats)
 <!--RECENT_ACTIVITY:end-->
 
