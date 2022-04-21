@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 21st, 2022, 11:51:19 PM (Indian Standard Time)
+Last Updated: Friday, April 22nd, 2022, 12:41:15 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [codeleaker2000/milrato-botmaker-src](https://github.com/codeleaker2000/milrato-botmaker-src)
-2. ![star] Starred [codeleaker2000/milrato-global-src](https://github.com/codeleaker2000/milrato-global-src)
-3. ![fork] Forked [BluecraftDev/botmanager](https://github.com/BluecraftDev/botmanager) from [protyodev/botmanager](https://github.com/protyodev/botmanager)
-4. ![star] Starred [protyodev/botmanager](https://github.com/protyodev/botmanager)
-5. ![fork] Forked [BluecraftDev/pornhub-clone](https://github.com/BluecraftDev/pornhub-clone) from [Fuckrrr247/pornhub-clone](https://github.com/Fuckrrr247/pornhub-clone)
-6. ![fork] Forked [BluecraftDev/Private-Discord-Bot](https://github.com/BluecraftDev/Private-Discord-Bot) from [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
-7. ![fork] Forked [BluecraftDev/server-startup-scripts](https://github.com/BluecraftDev/server-startup-scripts) from [alaister-net/server-startup-scripts](https://github.com/alaister-net/server-startup-scripts)
-8. ![fork] Forked [BluecraftDev/yolks](https://github.com/BluecraftDev/yolks) from [alaister-net/yolks](https://github.com/alaister-net/yolks)
-9. ![star] Starred [alaister-net/yolks](https://github.com/alaister-net/yolks)
-10. ![star] Starred [BlackKnight683/Tickety](https://github.com/BlackKnight683/Tickety)
+1. ![fork] Forked [BluecraftDev/Aimbot-for-Krunker](https://github.com/BluecraftDev/Aimbot-for-Krunker) from [Pr0jectScripter/Aimbot-for-Krunker](https://github.com/Pr0jectScripter/Aimbot-for-Krunker)
+2. ![star] Starred [codeleaker2000/milrato-botmaker-src](https://github.com/codeleaker2000/milrato-botmaker-src)
+3. ![star] Starred [codeleaker2000/milrato-global-src](https://github.com/codeleaker2000/milrato-global-src)
+4. ![fork] Forked [BluecraftDev/botmanager](https://github.com/BluecraftDev/botmanager) from [protyodev/botmanager](https://github.com/protyodev/botmanager)
+5. ![star] Starred [protyodev/botmanager](https://github.com/protyodev/botmanager)
+6. ![fork] Forked [BluecraftDev/pornhub-clone](https://github.com/BluecraftDev/pornhub-clone) from [Fuckrrr247/pornhub-clone](https://github.com/Fuckrrr247/pornhub-clone)
+7. ![fork] Forked [BluecraftDev/Private-Discord-Bot](https://github.com/BluecraftDev/Private-Discord-Bot) from [2JJ1/Private-Discord-Bot](https://github.com/2JJ1/Private-Discord-Bot)
+8. ![fork] Forked [BluecraftDev/server-startup-scripts](https://github.com/BluecraftDev/server-startup-scripts) from [alaister-net/server-startup-scripts](https://github.com/alaister-net/server-startup-scripts)
+9. ![fork] Forked [BluecraftDev/yolks](https://github.com/BluecraftDev/yolks) from [alaister-net/yolks](https://github.com/alaister-net/yolks)
+10. ![star] Starred [alaister-net/yolks](https://github.com/alaister-net/yolks)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
