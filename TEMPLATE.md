@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 4th, 2022, 2:52:31 PM (Indian Standard Time)
+Last Updated: Wednesday, May 4th, 2022, 3:54:05 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-2. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
-3. ![fork] Forked [Bad-Boy-Codes/BDFD-Apis](https://github.com/Bad-Boy-Codes/BDFD-Apis) from [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
-4. ![prOpened] Opened PR [#2107](https://github.com/is-a-dev/register/pull/2107) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![prOpened] Opened PR [#2101](https://github.com/is-a-dev/register/pull/2101) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![prOpened] Opened PR [#2066](https://github.com/is-a-dev/register/pull/2066) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![star] Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)
-8. ![repoCreated] Created new repository [Bad-Boy-Codes/Suzumi-Api](https://github.com/Bad-Boy-Codes/Suzumi-Api)
-9. ![prOpened] Opened PR [#47](https://github.com/is-a-good-dev/Register/pull/47) in [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register)
-10. ![fork] Forked [Bad-Boy-Codes/Register](https://github.com/Bad-Boy-Codes/Register) from [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register)
+1. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
+2. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
+3. ![star] Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+4. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+5. ![fork] Forked [Bad-Boy-Codes/BDFD-Apis](https://github.com/Bad-Boy-Codes/BDFD-Apis) from [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+6. ![prOpened] Opened PR [#2107](https://github.com/is-a-dev/register/pull/2107) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![prOpened] Opened PR [#2101](https://github.com/is-a-dev/register/pull/2101) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![prOpened] Opened PR [#2066](https://github.com/is-a-dev/register/pull/2066) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![star] Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)
+10. ![repoCreated] Created new repository [Bad-Boy-Codes/Suzumi-Api](https://github.com/Bad-Boy-Codes/Suzumi-Api)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
