@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 3:55:04 PM (Indian Standard Time)
+Last Updated: Monday, May 9th, 2022, 4:48:53 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [Bad-Boy-Codes/Seviy-Sevu](https://github.com/Bad-Boy-Codes/Seviy-Sevu)
-2. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
+1. ![issueOpened] Opened issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
+2. ![repoCreated] Created new repository [Bad-Boy-Codes/Seviy-Sevu](https://github.com/Bad-Boy-Codes/Seviy-Sevu)
 3. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
-4. ![star] Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-5. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
-6. ![fork] Forked [Bad-Boy-Codes/BDFD-Apis](https://github.com/Bad-Boy-Codes/BDFD-Apis) from [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
-7. ![prOpened] Opened PR [#2107](https://github.com/is-a-dev/register/pull/2107) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![prOpened] Opened PR [#2101](https://github.com/is-a-dev/register/pull/2101) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![prOpened] Opened PR [#2066](https://github.com/is-a-dev/register/pull/2066) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![star] Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)
+4. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
+5. ![star] Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+6. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+7. ![fork] Forked [Bad-Boy-Codes/BDFD-Apis](https://github.com/Bad-Boy-Codes/BDFD-Apis) from [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+8. ![prOpened] Opened PR [#2107](https://github.com/is-a-dev/register/pull/2107) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![prOpened] Opened PR [#2101](https://github.com/is-a-dev/register/pull/2101) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![prOpened] Opened PR [#2066](https://github.com/is-a-dev/register/pull/2066) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
