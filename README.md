@@ -42,10 +42,10 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 
 ----
 <h4 align="center">
-Tools/Apps with which I use most </><br>
+   Tools/Apps with which I use most </><br/><br>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -62,8 +62,8 @@ Tools/Apps with which I use most </><br>
 <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
 <br></br>
 <a href="https://dsc.gg/badboy">
-<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
-<a href="https://discord.com/users/445073800850046977"><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
+<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"/>
+<a href="https://discord.com/users/445073800850046977"><br/><br/><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
 </div>
 
 ----
