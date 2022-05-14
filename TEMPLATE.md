@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 14th, 2022, 9:59:43 PM (Indian Standard Time)
+Last Updated: Saturday, May 14th, 2022, 10:53:14 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#2352](https://github.com/is-a-dev/register/pull/2352) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![prOpened] Opened PR [#2351](https://github.com/is-a-dev/register/pull/2351) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![repoCreated] Created new repository [Bad-Boy-Codes/hackathon-discord-bot](https://github.com/Bad-Boy-Codes/hackathon-discord-bot)
-4. ![prOpened] Opened PR [#2330](https://github.com/is-a-dev/register/pull/2330) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![prOpened] Opened PR [#2324](https://github.com/is-a-dev/register/pull/2324) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![issueOpened] Opened issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
-7. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
-8. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
-9. ![star] Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-10. ![prOpened] Opened PR [#5](https://github.com/BDFD-Staff/BDFD-Apis/pull/5) in [BDFD-Staff/BDFD-Apis](https://github.com/BDFD-Staff/BDFD-Apis)
+1. ![star] Starred [Bad-Boy-Codes/cdn](https://github.com/Bad-Boy-Codes/cdn)
+2. ![star] Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
+3. ![prOpened] Opened PR [#2352](https://github.com/is-a-dev/register/pull/2352) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prOpened] Opened PR [#2351](https://github.com/is-a-dev/register/pull/2351) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![repoCreated] Created new repository [Bad-Boy-Codes/hackathon-discord-bot](https://github.com/Bad-Boy-Codes/hackathon-discord-bot)
+6. ![prOpened] Opened PR [#2330](https://github.com/is-a-dev/register/pull/2330) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![prOpened] Opened PR [#2324](https://github.com/is-a-dev/register/pull/2324) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![issueOpened] Opened issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
+9. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
+10. ![repoCreated] Created new repository [Bad-Boy-Codes/Sevu](https://github.com/Bad-Boy-Codes/Sevu)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
