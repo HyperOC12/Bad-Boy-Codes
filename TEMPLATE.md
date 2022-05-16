@@ -79,7 +79,7 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 16th, 2022, 8:54:30 PM (Indian Standard Time)
+Last Updated: Monday, May 16th, 2022, 10:04:22 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![prOpened] Opened PR [#2371](https://github.com/is-a-dev/register/pull/2371) in [is-a-dev/register](https://github.com/is-a-dev/register)
@@ -89,9 +89,9 @@ Last Updated: Monday, May 16th, 2022, 8:54:30 PM (Indian Standard Time)
 5. ![star] Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
 6. ![prOpened] Opened PR [#2352](https://github.com/is-a-dev/register/pull/2352) in [is-a-dev/register](https://github.com/is-a-dev/register)
 7. ![prOpened] Opened PR [#2351](https://github.com/is-a-dev/register/pull/2351) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![repoCreated] Created new repository [Bad-Boy-Codes/hackathon-discord-bot](https://github.com/Bad-Boy-Codes/hackathon-discord-bot)
-9. ![prOpened] Opened PR [#2330](https://github.com/is-a-dev/register/pull/2330) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![prOpened] Opened PR [#2324](https://github.com/is-a-dev/register/pull/2324) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![prOpened] Opened PR [#2330](https://github.com/is-a-dev/register/pull/2330) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![prOpened] Opened PR [#2324](https://github.com/is-a-dev/register/pull/2324) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![issueOpened] Opened issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
