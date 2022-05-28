@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 28th, 2022, 4:48:19 PM (Indian Standard Time)
+Last Updated: Saturday, May 28th, 2022, 6:05:40 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![star] Starred [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io)
 2. ![star] Starred [kazz0001/kazz0001.github.io](https://github.com/kazz0001/kazz0001.github.io)
 3. ![prOpened] Opened PR [#2425](https://github.com/is-a-dev/register/pull/2425) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. ![prOpened] Opened PR [#2424](https://github.com/is-a-dev/register/pull/2424) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![star] Starred [Bad-Boy-Codes/hackathon-discord-bot](https://github.com/Bad-Boy-Codes/hackathon-discord-bot)
-6. ![issueClosed] Closed issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
-7. ![prOpened] Opened PR [#2391](https://github.com/is-a-dev/register/pull/2391) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![prOpened] Opened PR [#2371](https://github.com/is-a-dev/register/pull/2371) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![prOpened] Opened PR [#79](https://github.com/denosaurs/mod.land/pull/79) in [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
-10. ![fork] Forked [Bad-Boy-Codes/mod.land](https://github.com/Bad-Boy-Codes/mod.land) from [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
+5. ![issueClosed] Closed issue [#69](https://github.com/aakhilv/runs-on.tech/issues/69) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
+6. ![prOpened] Opened PR [#2391](https://github.com/is-a-dev/register/pull/2391) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![prOpened] Opened PR [#2371](https://github.com/is-a-dev/register/pull/2371) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![prOpened] Opened PR [#79](https://github.com/denosaurs/mod.land/pull/79) in [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
+9. ![fork] Forked [Bad-Boy-Codes/mod.land](https://github.com/Bad-Boy-Codes/mod.land) from [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
+10. ![star] Starred [Bad-Boy-Codes/cdn](https://github.com/Bad-Boy-Codes/cdn)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
