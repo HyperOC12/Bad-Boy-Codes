@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 9th, 2022, 1:45:39 AM (Indian Standard Time)
+Last Updated: Thursday, June 9th, 2022, 2:43:23 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [BluecraftDev/BluecraftDev](https://github.com/BluecraftDev/BluecraftDev) from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
-2. ![star] Starred [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
-3. ![repoCreated] Created new repository [Bluto-Development/.github](https://github.com/Bluto-Development/.github)
-4. ![repoCreated] Created new repository [BluecraftDev/developerFolio](https://github.com/BluecraftDev/developerFolio)
-5. ![fork] Forked [BluecraftDev/OVH-ACCOUNTS-CRACKER](https://github.com/BluecraftDev/OVH-ACCOUNTS-CRACKER) from [haillucker/OVH-ACCOUNTS-CRACKER](https://github.com/haillucker/OVH-ACCOUNTS-CRACKER)
-6. ![fork] Forked [BluecraftDev/userscripts](https://github.com/BluecraftDev/userscripts) from [y9x/userscripts](https://github.com/y9x/userscripts)
-7. ![fork] Forked [BluecraftDev/Discord-Presser-Server-Nuker](https://github.com/BluecraftDev/Discord-Presser-Server-Nuker) from [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker)
-8. ![star] Starred [amogus38/purpletape-botmanager](https://github.com/amogus38/purpletape-botmanager)
-9. ![fork] Forked [BluecraftDev/Aimbot-for-Krunker](https://github.com/BluecraftDev/Aimbot-for-Krunker) from [Pr0jectScripter/Aimbot-for-Krunker](https://github.com/Pr0jectScripter/Aimbot-for-Krunker)
-10. ![star] Starred [codeleaker2000/milrato-botmaker-src](https://github.com/codeleaker2000/milrato-botmaker-src)
+1. ![fork] Forked [BluecraftDev/Presences](https://github.com/BluecraftDev/Presences) from [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. ![fork] Forked [BluecraftDev/BluecraftDev](https://github.com/BluecraftDev/BluecraftDev) from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+3. ![star] Starred [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
+4. ![repoCreated] Created new repository [Bluto-Development/.github](https://github.com/Bluto-Development/.github)
+5. ![repoCreated] Created new repository [BluecraftDev/developerFolio](https://github.com/BluecraftDev/developerFolio)
+6. ![fork] Forked [BluecraftDev/OVH-ACCOUNTS-CRACKER](https://github.com/BluecraftDev/OVH-ACCOUNTS-CRACKER) from [haillucker/OVH-ACCOUNTS-CRACKER](https://github.com/haillucker/OVH-ACCOUNTS-CRACKER)
+7. ![fork] Forked [BluecraftDev/userscripts](https://github.com/BluecraftDev/userscripts) from [y9x/userscripts](https://github.com/y9x/userscripts)
+8. ![fork] Forked [BluecraftDev/Discord-Presser-Server-Nuker](https://github.com/BluecraftDev/Discord-Presser-Server-Nuker) from [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker)
+9. ![star] Starred [amogus38/purpletape-botmanager](https://github.com/amogus38/purpletape-botmanager)
+10. ![fork] Forked [BluecraftDev/Aimbot-for-Krunker](https://github.com/BluecraftDev/Aimbot-for-Krunker) from [Pr0jectScripter/Aimbot-for-Krunker](https://github.com/Pr0jectScripter/Aimbot-for-Krunker)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
