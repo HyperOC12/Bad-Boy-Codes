@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 27th, 2022, 11:52:45 AM (Indian Standard Time)
+Last Updated: Monday, June 27th, 2022, 12:44:09 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
-2. ![fork] Forked [BluecraftDev/Presences](https://github.com/BluecraftDev/Presences) from [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. ![fork] Forked [BluecraftDev/BluecraftDev](https://github.com/BluecraftDev/BluecraftDev) from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
-4. ![star] Starred [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
-5. ![repoCreated] Created new repository [Bluto-Development/.github](https://github.com/Bluto-Development/.github)
-6. ![repoCreated] Created new repository [BluecraftDev/developerFolio](https://github.com/BluecraftDev/developerFolio)
-7. ![fork] Forked [BluecraftDev/OVH-ACCOUNTS-CRACKER](https://github.com/BluecraftDev/OVH-ACCOUNTS-CRACKER) from [haillucker/OVH-ACCOUNTS-CRACKER](https://github.com/haillucker/OVH-ACCOUNTS-CRACKER)
-8. ![fork] Forked [BluecraftDev/userscripts](https://github.com/BluecraftDev/userscripts) from [y9x/userscripts](https://github.com/y9x/userscripts)
-9. ![fork] Forked [BluecraftDev/Discord-Presser-Server-Nuker](https://github.com/BluecraftDev/Discord-Presser-Server-Nuker) from [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker)
-10. ![star] Starred [amogus38/purpletape-botmanager](https://github.com/amogus38/purpletape-botmanager)
+1. ![fork] Forked [BluecraftDev/Remainder-SRC](https://github.com/BluecraftDev/Remainder-SRC) from [piggydoe/Remainder-SRC](https://github.com/piggydoe/Remainder-SRC)
+2. ![issueOpened] Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
+3. ![fork] Forked [BluecraftDev/Presences](https://github.com/BluecraftDev/Presences) from [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. ![fork] Forked [BluecraftDev/BluecraftDev](https://github.com/BluecraftDev/BluecraftDev) from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+5. ![star] Starred [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
+6. ![repoCreated] Created new repository [Bluto-Development/.github](https://github.com/Bluto-Development/.github)
+7. ![repoCreated] Created new repository [BluecraftDev/developerFolio](https://github.com/BluecraftDev/developerFolio)
+8. ![fork] Forked [BluecraftDev/OVH-ACCOUNTS-CRACKER](https://github.com/BluecraftDev/OVH-ACCOUNTS-CRACKER) from [haillucker/OVH-ACCOUNTS-CRACKER](https://github.com/haillucker/OVH-ACCOUNTS-CRACKER)
+9. ![fork] Forked [BluecraftDev/userscripts](https://github.com/BluecraftDev/userscripts) from [y9x/userscripts](https://github.com/y9x/userscripts)
+10. ![fork] Forked [BluecraftDev/Discord-Presser-Server-Nuker](https://github.com/BluecraftDev/Discord-Presser-Server-Nuker) from [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
