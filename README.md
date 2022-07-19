@@ -52,9 +52,9 @@ Tools/Apps with which I use most </><br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ----
-<a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
+<a href="https://open.spotify.com/user/zk6h6t97zorjil9k8jj3izle8" target="_blank"> Spotify</a>
 <br></br>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
 </a>
 
 ----
