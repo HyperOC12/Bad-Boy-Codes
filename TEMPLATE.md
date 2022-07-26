@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 26th, 2022, 3:49:23 PM (Indian Standard Time)
+Last Updated: Tuesday, July 26th, 2022, 4:43:24 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [BluecraftDev/lanyard-profile-readme](https://github.com/BluecraftDev/lanyard-profile-readme) from [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-2. ![fork] Forked [BluecraftDev/Discord-SelfBot](https://github.com/BluecraftDev/Discord-SelfBot) from [AstraaDev/Discord-SelfBot](https://github.com/AstraaDev/Discord-SelfBot)
-3. ![repoCreated] Created new repository [BluecraftDev/Boreal-Ticket](https://github.com/BluecraftDev/Boreal-Ticket)
-4. ![fork] Forked [BluecraftDev/discord-bot-website-template](https://github.com/BluecraftDev/discord-bot-website-template) from [kevinjosethomas/discord-bot-website-template](https://github.com/kevinjosethomas/discord-bot-website-template)
-5. ![star] Starred [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
-6. ![star] Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-7. ![fork] Forked [BluecraftDev/Remainder-SRC](https://github.com/BluecraftDev/Remainder-SRC) from [piggydoe/Remainder-SRC](https://github.com/piggydoe/Remainder-SRC)
-8. ![issueOpened] Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
-9. ![fork] Forked [BluecraftDev/Presences](https://github.com/BluecraftDev/Presences) from [PreMiD/Presences](https://github.com/PreMiD/Presences)
-10. ![fork] Forked [BluecraftDev/BluecraftDev](https://github.com/BluecraftDev/BluecraftDev) from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+1. ![fork] Forked [BluecraftDev/2b2tbot](https://github.com/BluecraftDev/2b2tbot) from [moom0o/2b2tbot](https://github.com/moom0o/2b2tbot)
+2. ![fork] Forked [BluecraftDev/lanyard-profile-readme](https://github.com/BluecraftDev/lanyard-profile-readme) from [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+3. ![fork] Forked [BluecraftDev/Discord-SelfBot](https://github.com/BluecraftDev/Discord-SelfBot) from [AstraaDev/Discord-SelfBot](https://github.com/AstraaDev/Discord-SelfBot)
+4. ![repoCreated] Created new repository [BluecraftDev/Boreal-Ticket](https://github.com/BluecraftDev/Boreal-Ticket)
+5. ![fork] Forked [BluecraftDev/discord-bot-website-template](https://github.com/BluecraftDev/discord-bot-website-template) from [kevinjosethomas/discord-bot-website-template](https://github.com/kevinjosethomas/discord-bot-website-template)
+6. ![star] Starred [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
+7. ![star] Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+8. ![fork] Forked [BluecraftDev/Remainder-SRC](https://github.com/BluecraftDev/Remainder-SRC) from [piggydoe/Remainder-SRC](https://github.com/piggydoe/Remainder-SRC)
+9. ![issueOpened] Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
+10. ![fork] Forked [BluecraftDev/Presences](https://github.com/BluecraftDev/Presences) from [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
