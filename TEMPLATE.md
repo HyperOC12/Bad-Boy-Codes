@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 28th, 2022, 2:43:32 AM (Indian Standard Time)
+Last Updated: Thursday, July 28th, 2022, 3:45:42 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [BluecraftDev/musical-couscous](https://github.com/BluecraftDev/musical-couscous)
-2. ![fork] Forked [BluecraftDev/2b2tbot](https://github.com/BluecraftDev/2b2tbot) from [moom0o/2b2tbot](https://github.com/moom0o/2b2tbot)
-3. ![fork] Forked [BluecraftDev/lanyard-profile-readme](https://github.com/BluecraftDev/lanyard-profile-readme) from [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-4. ![fork] Forked [BluecraftDev/Discord-SelfBot](https://github.com/BluecraftDev/Discord-SelfBot) from [AstraaDev/Discord-SelfBot](https://github.com/AstraaDev/Discord-SelfBot)
-5. ![repoCreated] Created new repository [BluecraftDev/Boreal-Ticket](https://github.com/BluecraftDev/Boreal-Ticket)
-6. ![fork] Forked [BluecraftDev/discord-bot-website-template](https://github.com/BluecraftDev/discord-bot-website-template) from [kevinjosethomas/discord-bot-website-template](https://github.com/kevinjosethomas/discord-bot-website-template)
-7. ![star] Starred [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
-8. ![star] Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-9. ![fork] Forked [BluecraftDev/Remainder-SRC](https://github.com/BluecraftDev/Remainder-SRC) from [piggydoe/Remainder-SRC](https://github.com/piggydoe/Remainder-SRC)
-10. ![issueOpened] Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
+1. ![fork] Forked [BluecraftDev/Planet-Bot](https://github.com/BluecraftDev/Planet-Bot) from [Blue-Development/Planet-Bot](https://github.com/Blue-Development/Planet-Bot)
+2. ![repoCreated] Created new repository [BluecraftDev/musical-couscous](https://github.com/BluecraftDev/musical-couscous)
+3. ![fork] Forked [BluecraftDev/2b2tbot](https://github.com/BluecraftDev/2b2tbot) from [moom0o/2b2tbot](https://github.com/moom0o/2b2tbot)
+4. ![fork] Forked [BluecraftDev/lanyard-profile-readme](https://github.com/BluecraftDev/lanyard-profile-readme) from [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+5. ![fork] Forked [BluecraftDev/Discord-SelfBot](https://github.com/BluecraftDev/Discord-SelfBot) from [AstraaDev/Discord-SelfBot](https://github.com/AstraaDev/Discord-SelfBot)
+6. ![repoCreated] Created new repository [BluecraftDev/Boreal-Ticket](https://github.com/BluecraftDev/Boreal-Ticket)
+7. ![fork] Forked [BluecraftDev/discord-bot-website-template](https://github.com/BluecraftDev/discord-bot-website-template) from [kevinjosethomas/discord-bot-website-template](https://github.com/kevinjosethomas/discord-bot-website-template)
+8. ![star] Starred [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
+9. ![star] Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+10. ![fork] Forked [BluecraftDev/Remainder-SRC](https://github.com/BluecraftDev/Remainder-SRC) from [piggydoe/Remainder-SRC](https://github.com/piggydoe/Remainder-SRC)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
