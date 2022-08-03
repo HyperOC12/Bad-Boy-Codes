@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 3rd, 2022, 9:52:31 PM (Indian Standard Time)
+Last Updated: Wednesday, August 3rd, 2022, 10:48:00 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [BluecraftDev/SimpleUi](https://github.com/BluecraftDev/SimpleUi) from [Frazix12/SimpleUi](https://github.com/Frazix12/SimpleUi)
-2. ![star] Starred [Frazix12/SimpleUi](https://github.com/Frazix12/SimpleUi)
-3. ![star] Starred [sl34x/ticket-bot](https://github.com/sl34x/ticket-bot)
-4. ![repoCreated] Created new repository [BluecraftDev/Planet-Utilities](https://github.com/BluecraftDev/Planet-Utilities)
-5. ![fork] Forked [BluecraftDev/Tomato6966](https://github.com/BluecraftDev/Tomato6966) from [Tomato6966/Tomato6966](https://github.com/Tomato6966/Tomato6966)
-6. ![fork] Forked [BluecraftDev/Planet-Bot](https://github.com/BluecraftDev/Planet-Bot) from [Blue-Development/Planet-Bot](https://github.com/Blue-Development/Planet-Bot)
-7. ![repoCreated] Created new repository [BluecraftDev/musical-couscous](https://github.com/BluecraftDev/musical-couscous)
-8. ![fork] Forked [BluecraftDev/2b2tbot](https://github.com/BluecraftDev/2b2tbot) from [moom0o/2b2tbot](https://github.com/moom0o/2b2tbot)
-9. ![fork] Forked [BluecraftDev/lanyard-profile-readme](https://github.com/BluecraftDev/lanyard-profile-readme) from [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-10. ![fork] Forked [BluecraftDev/Discord-SelfBot](https://github.com/BluecraftDev/Discord-SelfBot) from [AstraaDev/Discord-SelfBot](https://github.com/AstraaDev/Discord-SelfBot)
+1. ![release] Released [Lol](https://github.com/BluecraftDev/Survival-Plugins/releases/tag/LOL) in [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
+2. ![repoCreated] Created new repository [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
+3. ![fork] Forked [BluecraftDev/SimpleUi](https://github.com/BluecraftDev/SimpleUi) from [Frazix12/SimpleUi](https://github.com/Frazix12/SimpleUi)
+4. ![star] Starred [Frazix12/SimpleUi](https://github.com/Frazix12/SimpleUi)
+5. ![star] Starred [sl34x/ticket-bot](https://github.com/sl34x/ticket-bot)
+6. ![repoCreated] Created new repository [BluecraftDev/Planet-Utilities](https://github.com/BluecraftDev/Planet-Utilities)
+7. ![fork] Forked [BluecraftDev/Tomato6966](https://github.com/BluecraftDev/Tomato6966) from [Tomato6966/Tomato6966](https://github.com/Tomato6966/Tomato6966)
+8. ![fork] Forked [BluecraftDev/Planet-Bot](https://github.com/BluecraftDev/Planet-Bot) from [Blue-Development/Planet-Bot](https://github.com/Blue-Development/Planet-Bot)
+9. ![repoCreated] Created new repository [BluecraftDev/musical-couscous](https://github.com/BluecraftDev/musical-couscous)
+10. ![fork] Forked [BluecraftDev/2b2tbot](https://github.com/BluecraftDev/2b2tbot) from [moom0o/2b2tbot](https://github.com/moom0o/2b2tbot)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
