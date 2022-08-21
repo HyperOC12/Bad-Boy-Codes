@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 21st, 2022, 1:55:21 PM (Indian Standard Time)
+Last Updated: Sunday, August 21st, 2022, 2:49:43 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
-2. ![prOpened] Opened PR [#3072](https://github.com/is-a-dev/register/pull/3072) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![prOpened] Opened PR [#3022](https://github.com/is-a-dev/register/pull/3022) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![issueOpened] Opened issue [#1848](https://github.com/adiwajshing/Baileys/issues/1848) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-5. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
-6. ![fork] Forked [Bad-Boy-Codes/wbot](https://github.com/Bad-Boy-Codes/wbot) from [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
-7. ![star] Starred [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
-8. ![fork] Forked [Bad-Boy-Codes/WhatsBot](https://github.com/Bad-Boy-Codes/WhatsBot) from [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot)
-9. ![star] Starred [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot)
-10. ![star] Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. ![star] Starred [X1nto/Bluecord](https://github.com/X1nto/Bluecord)
+2. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
+3. ![prOpened] Opened PR [#3072](https://github.com/is-a-dev/register/pull/3072) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prOpened] Opened PR [#3022](https://github.com/is-a-dev/register/pull/3022) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![issueOpened] Opened issue [#1848](https://github.com/adiwajshing/Baileys/issues/1848) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+6. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
+7. ![fork] Forked [Bad-Boy-Codes/wbot](https://github.com/Bad-Boy-Codes/wbot) from [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
+8. ![star] Starred [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
+9. ![fork] Forked [Bad-Boy-Codes/WhatsBot](https://github.com/Bad-Boy-Codes/WhatsBot) from [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot)
+10. ![star] Starred [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
