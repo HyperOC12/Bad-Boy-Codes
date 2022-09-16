@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 16th, 2022, 7:23:30 PM (Indian Standard Time)
+Last Updated: Friday, September 16th, 2022, 8:00:52 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#3383](https://github.com/is-a-dev/register/pull/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![prOpened] Opened PR [#3261](https://github.com/is-a-dev/register/pull/3261) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![star] Starred [X1nto/Bluecord](https://github.com/X1nto/Bluecord)
-4. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
-5. ![prOpened] Opened PR [#3072](https://github.com/is-a-dev/register/pull/3072) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![prOpened] Opened PR [#3022](https://github.com/is-a-dev/register/pull/3022) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![issueOpened] Opened issue [#1848](https://github.com/adiwajshing/Baileys/issues/1848) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-8. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
-9. ![fork] Forked [Bad-Boy-Codes/wbot](https://github.com/Bad-Boy-Codes/wbot) from [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
-10. ![star] Starred [FaizBastomi/wbot](https://github.com/FaizBastomi/wbot)
+1. ![prClosed] Closed PR [#3383](https://github.com/is-a-dev/register/pull/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![prOpened] Opened PR [#3485](https://github.com/is-a-dev/register/pull/3485) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![prOpened] Opened PR [#3383](https://github.com/is-a-dev/register/pull/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prOpened] Opened PR [#3261](https://github.com/is-a-dev/register/pull/3261) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![star] Starred [X1nto/Bluecord](https://github.com/X1nto/Bluecord)
+6. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
+7. ![prOpened] Opened PR [#3072](https://github.com/is-a-dev/register/pull/3072) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![prOpened] Opened PR [#3022](https://github.com/is-a-dev/register/pull/3022) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![issueOpened] Opened issue [#1848](https://github.com/adiwajshing/Baileys/issues/1848) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+10. ![star] Starred [Bad-Boy-Codes/my-whatsapp-bot](https://github.com/Bad-Boy-Codes/my-whatsapp-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
