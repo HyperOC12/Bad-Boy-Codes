@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 23rd, 2022, 6:05:41 PM (Indian Standard Time)
+Last Updated: Sunday, October 23rd, 2022, 7:10:51 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [BluecraftDev/lol](https://github.com/BluecraftDev/lol)
-2. ![fork] Forked [BluecraftDev/Frazix12.github.io](https://github.com/BluecraftDev/Frazix12.github.io) from [Frazix12/Frazix12.github.io](https://github.com/Frazix12/Frazix12.github.io)
-3. ![fork] Forked [BluecraftDev/Fortnite-LobbyBot-v2](https://github.com/BluecraftDev/Fortnite-LobbyBot-v2) from [gomashio1596/Fortnite-LobbyBot-v2](https://github.com/gomashio1596/Fortnite-LobbyBot-v2)
-4. ![prOpened] Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![fork] Forked [BluecraftDev/register](https://github.com/BluecraftDev/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![repoCreated] Created new repository [BluecraftDev/BluecraftDEv](https://github.com/BluecraftDev/BluecraftDEv)
-7. ![issueOpened] Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
-8. ![release] Released [Lol](https://github.com/BluecraftDev/Survival-Plugins/releases/tag/LOL) in [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
-9. ![repoCreated] Created new repository [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
-10. ![fork] Forked [BluecraftDev/SimpleUi](https://github.com/BluecraftDev/SimpleUi) from [Frazix12/SimpleUi](https://github.com/Frazix12/SimpleUi)
+1. ![star] Starred [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp)
+2. ![repoCreated] Created new repository [BluecraftDev/lol](https://github.com/BluecraftDev/lol)
+3. ![fork] Forked [BluecraftDev/Frazix12.github.io](https://github.com/BluecraftDev/Frazix12.github.io) from [Frazix12/Frazix12.github.io](https://github.com/Frazix12/Frazix12.github.io)
+4. ![fork] Forked [BluecraftDev/Fortnite-LobbyBot-v2](https://github.com/BluecraftDev/Fortnite-LobbyBot-v2) from [gomashio1596/Fortnite-LobbyBot-v2](https://github.com/gomashio1596/Fortnite-LobbyBot-v2)
+5. ![prOpened] Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![fork] Forked [BluecraftDev/register](https://github.com/BluecraftDev/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![repoCreated] Created new repository [BluecraftDev/BluecraftDEv](https://github.com/BluecraftDev/BluecraftDEv)
+8. ![issueOpened] Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
+9. ![release] Released [Lol](https://github.com/BluecraftDev/Survival-Plugins/releases/tag/LOL) in [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
+10. ![repoCreated] Created new repository [BluecraftDev/Survival-Plugins](https://github.com/BluecraftDev/Survival-Plugins)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
