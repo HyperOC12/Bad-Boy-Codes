@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 5th, 2022, 6:56:25 PM (Indian Standard Time)
+Last Updated: Saturday, November 5th, 2022, 7:43:25 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [BluecraftDev/ngrok-rdp](https://github.com/BluecraftDev/ngrok-rdp) from [adtitas/ngrok-rdp](https://github.com/adtitas/ngrok-rdp)
-2. ![fork] Forked [BluecraftDev/RDP-New](https://github.com/BluecraftDev/RDP-New) from [MinatoAka/RDP-New](https://github.com/MinatoAka/RDP-New)
-3. ![star] Starred [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp)
-4. ![repoCreated] Created new repository [BluecraftDev/lol](https://github.com/BluecraftDev/lol)
-5. ![fork] Forked [BluecraftDev/Frazix12.github.io](https://github.com/BluecraftDev/Frazix12.github.io) from [Frazix12/Frazix12.github.io](https://github.com/Frazix12/Frazix12.github.io)
-6. ![fork] Forked [BluecraftDev/Fortnite-LobbyBot-v2](https://github.com/BluecraftDev/Fortnite-LobbyBot-v2) from [gomashio1596/Fortnite-LobbyBot-v2](https://github.com/gomashio1596/Fortnite-LobbyBot-v2)
-7. ![prOpened] Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![fork] Forked [BluecraftDev/register](https://github.com/BluecraftDev/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![repoCreated] Created new repository [BluecraftDev/BluecraftDEv](https://github.com/BluecraftDev/BluecraftDEv)
-10. ![issueOpened] Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
+1. ![fork] Forked [BluecraftDev/personal-website](https://github.com/BluecraftDev/personal-website) from [github/personal-website](https://github.com/github/personal-website)
+2. ![fork] Forked [BluecraftDev/ngrok-rdp](https://github.com/BluecraftDev/ngrok-rdp) from [adtitas/ngrok-rdp](https://github.com/adtitas/ngrok-rdp)
+3. ![fork] Forked [BluecraftDev/RDP-New](https://github.com/BluecraftDev/RDP-New) from [MinatoAka/RDP-New](https://github.com/MinatoAka/RDP-New)
+4. ![star] Starred [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp)
+5. ![repoCreated] Created new repository [BluecraftDev/lol](https://github.com/BluecraftDev/lol)
+6. ![fork] Forked [BluecraftDev/Frazix12.github.io](https://github.com/BluecraftDev/Frazix12.github.io) from [Frazix12/Frazix12.github.io](https://github.com/Frazix12/Frazix12.github.io)
+7. ![fork] Forked [BluecraftDev/Fortnite-LobbyBot-v2](https://github.com/BluecraftDev/Fortnite-LobbyBot-v2) from [gomashio1596/Fortnite-LobbyBot-v2](https://github.com/gomashio1596/Fortnite-LobbyBot-v2)
+8. ![prOpened] Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![fork] Forked [BluecraftDev/register](https://github.com/BluecraftDev/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![repoCreated] Created new repository [BluecraftDev/BluecraftDEv](https://github.com/BluecraftDev/BluecraftDEv)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
