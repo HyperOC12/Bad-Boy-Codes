@@ -13,7 +13,7 @@
    <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
    <a />
 </p>
-<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
+<h4 align="center"> Hey I'm Light Aka Bad Boy, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
 <details>
 <summary>About Me</summary><br>
 ★ Currently working on websites and APIs<br></br>
