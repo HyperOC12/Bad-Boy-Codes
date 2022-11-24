@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 7:47:19 PM (Indian Standard Time)
+Last Updated: Thursday, November 24th, 2022, 8:49:55 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#4017](https://github.com/is-a-dev/register/pull/4017) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![prOpened] Opened PR [#4016](https://github.com/is-a-dev/register/pull/4016) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![prOpened] Opened PR [#4015](https://github.com/is-a-dev/register/pull/4015) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![prOpened] Opened PR [#4014](https://github.com/is-a-dev/register/pull/4014) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![star] Starred [KarimX32/Girlfriend-Bot](https://github.com/KarimX32/Girlfriend-Bot)
-6. ![prOpened] Opened PR [#3831](https://github.com/is-a-dev/register/pull/3831) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![prOpened] Opened PR [#3707](https://github.com/is-a-dev/register/pull/3707) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![prOpened] Opened PR [#123](https://github.com/denosaurs/mod.land/pull/123) in [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
-9. ![fork] Forked [Bad-Boy-Codes/mod.land](https://github.com/Bad-Boy-Codes/mod.land) from [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
-10. ![star] Starred [blueedgetechno/androidInReact](https://github.com/blueedgetechno/androidInReact)
+1. ![prClosed] Closed PR [#271](https://github.com/is-a-good-dev/register/pull/271) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![prOpened] Opened PR [#4037](https://github.com/is-a-dev/register/pull/4037) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![prClosed] Closed PR [#4016](https://github.com/is-a-dev/register/pull/4016) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prOpened] Opened PR [#4036](https://github.com/is-a-dev/register/pull/4036) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![prOpened] Opened PR [#4035](https://github.com/is-a-dev/register/pull/4035) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![prClosed] Closed PR [#4015](https://github.com/is-a-dev/register/pull/4015) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![prClosed] Closed PR [#4014](https://github.com/is-a-dev/register/pull/4014) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![prOpened] Opened PR [#271](https://github.com/is-a-good-dev/register/pull/271) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+9. ![issueOpened] Opened issue [#21](https://github.com/is-really-cool/register/issues/21) in [is-really-cool/register](https://github.com/is-really-cool/register)
+10. ![prOpened] Opened PR [#20](https://github.com/is-really-cool/register/pull/20) in [is-really-cool/register](https://github.com/is-really-cool/register)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
