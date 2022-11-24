@@ -69,8 +69,8 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemantCodes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=18161a" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=SemantCodes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemantCodes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=SemantCodes&show_icons=true&theme=monokai&hide_border=true&bg_color=00000000" /><br></br>
 </div>
 </p>
 A snake eating my contribution graph.
