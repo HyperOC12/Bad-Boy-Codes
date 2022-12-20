@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 20th, 2022, 7:47:24 PM (Indian Standard Time)
+Last Updated: Tuesday, December 20th, 2022, 8:50:05 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#43](https://github.com/open-domains/register/pull/43) in [open-domains/register](https://github.com/open-domains/register)
-2. ![star] Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-3. ![prOpened] Opened PR [#40](https://github.com/is-really-cool/register/pull/40) in [is-really-cool/register](https://github.com/is-really-cool/register)
-4. ![prOpened] Opened PR [#41](https://github.com/open-domains/register/pull/41) in [open-domains/register](https://github.com/open-domains/register)
-5. ![star] Starred [open-domains/register](https://github.com/open-domains/register)
-6. ![fork] Forked [SemantCodes/register](https://github.com/SemantCodes/register) from [open-domains/register](https://github.com/open-domains/register)
-7. ![star] Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-8. ![prOpened] Opened PR [#4204](https://github.com/is-a-dev/register/pull/4204) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![prOpened] Opened PR [#4203](https://github.com/is-a-dev/register/pull/4203) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![fork] Forked [SemantCodes/starter-rest-api](https://github.com/SemantCodes/starter-rest-api) from [cyclic-software/starter-rest-api](https://github.com/cyclic-software/starter-rest-api)
+1. ![prClosed] Closed PR [#40](https://github.com/is-really-cool/register/pull/40) in [is-really-cool/register](https://github.com/is-really-cool/register)
+2. ![prOpened] Opened PR [#43](https://github.com/open-domains/register/pull/43) in [open-domains/register](https://github.com/open-domains/register)
+3. ![star] Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+4. ![prOpened] Opened PR [#40](https://github.com/is-really-cool/register/pull/40) in [is-really-cool/register](https://github.com/is-really-cool/register)
+5. ![prOpened] Opened PR [#41](https://github.com/open-domains/register/pull/41) in [open-domains/register](https://github.com/open-domains/register)
+6. ![star] Starred [open-domains/register](https://github.com/open-domains/register)
+7. ![fork] Forked [SemantCodes/register](https://github.com/SemantCodes/register) from [open-domains/register](https://github.com/open-domains/register)
+8. ![star] Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+9. ![prOpened] Opened PR [#4204](https://github.com/is-a-dev/register/pull/4204) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![prOpened] Opened PR [#4203](https://github.com/is-a-dev/register/pull/4203) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
