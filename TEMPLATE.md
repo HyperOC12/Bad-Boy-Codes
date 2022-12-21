@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 21st, 2022, 10:46:01 AM (Indian Standard Time)
+Last Updated: Wednesday, December 21st, 2022, 11:51:59 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#46](https://github.com/open-domains/register/pull/46) in [open-domains/register](https://github.com/open-domains/register)
-2. ![prOpened] Opened PR [#45](https://github.com/open-domains/register/pull/45) in [open-domains/register](https://github.com/open-domains/register)
-3. ![prOpened] Opened PR [#4237](https://github.com/is-a-dev/register/pull/4237) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![prClosed] Closed PR [#4204](https://github.com/is-a-dev/register/pull/4204) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![prOpened] Opened PR [#44](https://github.com/open-domains/register/pull/44) in [open-domains/register](https://github.com/open-domains/register)
-6. ![issueClosed] Closed issue [#6](https://github.com/the-dise/instander-android/issues/6) in [the-dise/instander-android](https://github.com/the-dise/instander-android)
-7. ![issueOpened] Opened issue [#6](https://github.com/the-dise/instander-android/issues/6) in [the-dise/instander-android](https://github.com/the-dise/instander-android)
-8. ![prOpened] Opened PR [#4229](https://github.com/is-a-dev/register/pull/4229) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![prClosed] Closed PR [#40](https://github.com/is-really-cool/register/pull/40) in [is-really-cool/register](https://github.com/is-really-cool/register)
-10. ![prOpened] Opened PR [#43](https://github.com/open-domains/register/pull/43) in [open-domains/register](https://github.com/open-domains/register)
+1. ![prOpened] Opened PR [#47](https://github.com/open-domains/register/pull/47) in [open-domains/register](https://github.com/open-domains/register)
+2. ![prOpened] Opened PR [#46](https://github.com/open-domains/register/pull/46) in [open-domains/register](https://github.com/open-domains/register)
+3. ![prOpened] Opened PR [#45](https://github.com/open-domains/register/pull/45) in [open-domains/register](https://github.com/open-domains/register)
+4. ![prOpened] Opened PR [#4237](https://github.com/is-a-dev/register/pull/4237) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![prClosed] Closed PR [#4204](https://github.com/is-a-dev/register/pull/4204) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![prOpened] Opened PR [#44](https://github.com/open-domains/register/pull/44) in [open-domains/register](https://github.com/open-domains/register)
+7. ![issueClosed] Closed issue [#6](https://github.com/the-dise/instander-android/issues/6) in [the-dise/instander-android](https://github.com/the-dise/instander-android)
+8. ![issueOpened] Opened issue [#6](https://github.com/the-dise/instander-android/issues/6) in [the-dise/instander-android](https://github.com/the-dise/instander-android)
+9. ![prOpened] Opened PR [#4229](https://github.com/is-a-dev/register/pull/4229) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![prClosed] Closed PR [#40](https://github.com/is-really-cool/register/pull/40) in [is-really-cool/register](https://github.com/is-really-cool/register)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
