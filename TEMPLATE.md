@@ -79,14 +79,14 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 8:44:26 PM (Indian Standard Time)
+Last Updated: Thursday, December 22nd, 2022, 9:48:19 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [BluecraftDev/personal-website](https://github.com/BluecraftDev/personal-website) from [github/personal-website](https://github.com/github/personal-website)
-2. ![fork] Forked [BluecraftDev/ngrok-rdp](https://github.com/BluecraftDev/ngrok-rdp) from [adtitas/ngrok-rdp](https://github.com/adtitas/ngrok-rdp)
-3. ![fork] Forked [BluecraftDev/RDP-New](https://github.com/BluecraftDev/RDP-New) from [MinatoAka/RDP-New](https://github.com/MinatoAka/RDP-New)
-4. ![star] Starred [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp)
-5. ![repoCreated] Created new repository [BluecraftDev/lol](https://github.com/BluecraftDev/lol)
+1. ![issueOpened] Opened issue [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
+2. ![fork] Forked [BluecraftDev/personal-website](https://github.com/BluecraftDev/personal-website) from [github/personal-website](https://github.com/github/personal-website)
+3. ![fork] Forked [BluecraftDev/ngrok-rdp](https://github.com/BluecraftDev/ngrok-rdp) from [adtitas/ngrok-rdp](https://github.com/adtitas/ngrok-rdp)
+4. ![fork] Forked [BluecraftDev/RDP-New](https://github.com/BluecraftDev/RDP-New) from [MinatoAka/RDP-New](https://github.com/MinatoAka/RDP-New)
+5. ![star] Starred [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp)
 6. ![fork] Forked [BluecraftDev/Frazix12.github.io](https://github.com/BluecraftDev/Frazix12.github.io) from [Frazix12/Frazix12.github.io](https://github.com/Frazix12/Frazix12.github.io)
 7. ![fork] Forked [BluecraftDev/Fortnite-LobbyBot-v2](https://github.com/BluecraftDev/Fortnite-LobbyBot-v2) from [gomashio1596/Fortnite-LobbyBot-v2](https://github.com/gomashio1596/Fortnite-LobbyBot-v2)
 8. ![prOpened] Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
