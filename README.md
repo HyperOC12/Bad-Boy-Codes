@@ -23,11 +23,14 @@
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
    <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"/><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
-   </a><a href="https://dsc.gg/badboy" target="_blank">
+   </a>
+   <a href="https://dsc.gg/badboy" target="_blank">
    <img title="bot" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"/><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
-   </a><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
+   </a>
+   <a href="https://discord.gg/UTQRXgUAAX" target="_blank">
    <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
-   </a><a href="https://api.semant.is-a.dev/" target="_blank">
+   </a>
+   <a href="https://api.semant.is-a.dev/" target="_blank">
    <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
    </a>
 
