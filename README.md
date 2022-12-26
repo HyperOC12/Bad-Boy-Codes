@@ -35,6 +35,7 @@
    </a>
 
 ----
+
 </p>
 <p align="center">
 Social and Support: <br/><br/><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
@@ -44,6 +45,7 @@ Social and Support: <br/><br/><a href="https://www.youtube.com/channel/UC9j9vzkx
 <br/><br/><a href="https://www.buymeacoffee.com/semant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" /></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
 
 ----
+
 <h4 align="center">
 Tools/Apps with which I use most </h4><br/>
 <a href="#"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -56,12 +58,14 @@ Tools/Apps with which I use most </h4><br/>
 </a>
 
 ----
+
 <a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
 <br/><br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
 </a>
 
 ----
+
 <div align="center">
    <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
    <br/><br/>
@@ -71,6 +75,7 @@ Tools/Apps with which I use most </h4><br/>
 </div>
 
 ----
+
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mant&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br/>
@@ -81,4 +86,5 @@ A snake eating my contribution graph.
 <img src="https://github.com/s3mant/s3mant/blob/output/github-contribution-grid-snake.svg" title="snake graph" />
 
 ----
+
 Have a great day/night.
