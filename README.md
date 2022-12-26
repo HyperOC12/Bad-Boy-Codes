@@ -19,7 +19,7 @@
 ★ Currently working on websites and APIs<br/>
 ★ Otaku Weeb<br/>
 ★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://web.semant.is-a.dev">Main Website</a>, <a href="https://semant.is-really.cool">Secondary Website</a>
-<details/>
+</details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
    <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"/><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
