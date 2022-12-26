@@ -10,12 +10,12 @@
    <a />
    <br>
    <a href="https://discord.com/users/445073800850046977">
-   <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png"/>
+   <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png"/>
    <a />
 </p>
 <h4 align="center"> Hey I'm Semant, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
-<details>
-<summary open>About Me</summary><br>
+<details open>
+<summary>About Me</summary><br>
 ★ Currently working on websites and APIs<br></br>
 ★ Otaku Weeb<br></br>
 ★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://web.semant.is-a.dev">Main Website</a>, <a href="https://semant.is-really.cool">Secondary Website</a>
@@ -42,7 +42,7 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 
 ----
 <h4 align="center">
-   Tools/Apps with which I use most </><br/><br>
+Tools/Apps with which I use most </><br/><br>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -59,11 +59,11 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 
 ----
 <div align="center">
-<a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
-<br></br>
-<a href="https://dsc.gg/badboy">
-<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"/>
-<a href="https://discord.com/users/445073800850046977"><br/><br/><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&bg=00000000" /></a>
+   <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
+   <br></br>
+   <a href="https://dsc.gg/badboy">
+   <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"/>
+   <a href="https://discord.com/users/445073800850046977"><br/><br/><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&bg=00000000" /></a>
 </div>
 
 ----
@@ -74,10 +74,7 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 </div>
 </p>
 A snake eating my contribution graph.
-
-
 <img src="https://github.com/s3mant/s3mant/blob/output/github-contribution-grid-snake.svg" title="snake graph" />
-
 
 ----
 Have a great day/night.
