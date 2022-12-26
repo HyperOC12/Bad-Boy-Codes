@@ -1,7 +1,7 @@
 ----
 <p align="center">
-   <a href="https://github.com/SemantCodes/">
-   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=SemantCodes&style=flat-square&color=de1032">
+   <a href="https://github.com/s3mant/">
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=s3mant&style=flat-square&color=de1032">
    <a />
    <a href="https://dsc.gg/badboy">
    <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
@@ -69,13 +69,13 @@ Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZv
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemantCodes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=SemantCodes&show_icons=true&theme=monokai&hide_border=true&bg_color=00000000" /><br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mant&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=s3mant&show_icons=true&theme=monokai&hide_border=true&bg_color=00000000" /><br></br>
 </div>
 </p>
 A snake eating my contribution graph.
 
-![snake gif](https://github.com/SemantCodes/SemantCodes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/s3mant/s3mant/blob/output/github-contribution-grid-snake.svg)
 
 
 ----
