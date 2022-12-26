@@ -2,34 +2,34 @@
 <p align="center">
    <a href="https://github.com/s3mant/">
    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=s3mant&style=flat-square&color=de1032"/>
-   <a />
+   </a>
    <a href="https://dsc.gg/badboy">
    <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032"/>
-   <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
+   </a><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
    <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032"/>
-   <a />
+   </a>
    <br/>
    <a href="https://discord.com/users/445073800850046977">
    <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png"/>
-   <a />
+   </a>
 </p>
 <h4 align="center"> Hey I'm Semant, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
 <details open>
-<summary>About Me</summary><br/>
-★ Currently working on websites and APIs<br/><br/>
-★ Otaku Weeb<br/><br/>
+<summary>About Me</summary>
+★ Currently working on websites and APIs<br/>
+★ Otaku Weeb<br/>
 ★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://web.semant.is-a.dev">Main Website</a>, <a href="https://semant.is-really.cool">Secondary Website</a>
-</details>
+<details/>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
    <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"/><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://dsc.gg/badboy" target="_blank">
+   </a><a href="https://dsc.gg/badboy" target="_blank">
    <img title="bot" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"/><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
+   </a><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
    <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://api.semant.is-a.dev/" target="_blank">
+   </a><a href="https://api.semant.is-a.dev/" target="_blank">
    <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
-   <a />
+   </a>
 
 ----
 </p>
@@ -42,7 +42,7 @@ Social and Support: <br/><br/><a href="https://www.youtube.com/channel/UC9j9vzkx
 
 ----
 <h4 align="center">
-Tools/Apps with which I use most </><br/><br/>
+Tools/Apps with which I use most </h4><br/><br/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
