@@ -8,16 +8,16 @@
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
    <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032"/>
    <a />
-   <br>
+   <br/>
    <a href="https://discord.com/users/445073800850046977">
    <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png"/>
    <a />
 </p>
 <h4 align="center"> Hey I'm Semant, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
 <details open>
-<summary>About Me</summary><br>
-★ Currently working on websites and APIs<br></br>
-★ Otaku Weeb<br></br>
+<summary>About Me</summary><br/>
+★ Currently working on websites and APIs<br/><br/>
+★ Otaku Weeb<br/><br/>
 ★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://web.semant.is-a.dev">Main Website</a>, <a href="https://semant.is-really.cool">Secondary Website</a>
 </details>
 <p>
@@ -34,15 +34,15 @@
 ----
 </p>
 <p align="center">
-Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
+Social and Support: <br/><br/><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
 <a href="https://instagram.com/its.semant"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:contact@semant.is-a.dev"><img title="Email" src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
 <a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<br><br><a href="https://www.buymeacoffee.com/semant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" /></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
+<br/><br/><a href="https://www.buymeacoffee.com/semant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" /></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
 
 ----
 <h4 align="center">
-Tools/Apps with which I use most </><br/><br>
+Tools/Apps with which I use most </><br/><br/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -53,14 +53,14 @@ Tools/Apps with which I use most </><br/><br>
 
 ----
 <a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
-<br></br>
+<br/><br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
 </a>
 
 ----
 <div align="center">
    <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
-   <br></br>
+   <br/><br/>
    <a href="https://dsc.gg/badboy">
    <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"/>
    <a href="https://discord.com/users/445073800850046977"><br/><br/><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&bg=00000000" /></a>
@@ -69,8 +69,8 @@ Tools/Apps with which I use most </><br/><br>
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mant&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=s3mant&show_icons=true&theme=monokai&hide_border=true&bg_color=00000000" /><br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mant&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=00000000" /><br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=s3mant&show_icons=true&theme=monokai&hide_border=true&bg_color=00000000" /><br/><br/>
 </div>
 </p>
 A snake eating my contribution graph.
