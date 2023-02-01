@@ -79,19 +79,19 @@ A snake eating my contribution graph.
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 1st, 2023, 2:43:42 PM (Indian Standard Time)
+Last Updated: Wednesday, February 1st, 2023, 3:45:00 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [HyperQR/silver-octo-journey](https://github.com/HyperQR/silver-octo-journey)
-2. ![fork] Forked [HyperQR/HyperBeast](https://github.com/HyperQR/HyperBeast) from [TFAGaming/DiscordJS-V14-Bot-Template](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template)
-3. ![fork] Forked [HyperQR/Shop-Managerx](https://github.com/HyperQR/Shop-Managerx) from [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
-4. ![fork] Forked [HyperQR/Hypers-Manager](https://github.com/HyperQR/Hypers-Manager) from [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
-5. ![release] Released [SSH to Actions](https://github.com/HyperQR/ssh2actions-1/releases/tag/12.000) in [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1)
-6. ![release] Released [SSH to Actions](https://github.com/HyperQR/ssh2actions-1/releases/tag/3.0.0) in [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1)
-7. ![fork] Forked [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1) from [rdp-studio/ssh2actions](https://github.com/rdp-studio/ssh2actions)
-8. ![fork] Forked [HyperQR/ssh2actions](https://github.com/HyperQR/ssh2actions) from [P3TERX/ssh2actions](https://github.com/P3TERX/ssh2actions)
-9. ![issueOpened] Opened issue [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
-10. ![fork] Forked [BluecraftDev/personal-website](https://github.com/BluecraftDev/personal-website) from [github/personal-website](https://github.com/github/personal-website)
+1. ![fork] Forked [HyperQR/TDCord](https://github.com/HyperQR/TDCord) from [AudiRo7652/Discord.JS-V14-Hander](https://github.com/AudiRo7652/Discord.JS-V14-Hander)
+2. ![repoCreated] Created new repository [HyperQR/silver-octo-journey](https://github.com/HyperQR/silver-octo-journey)
+3. ![fork] Forked [HyperQR/HyperBeast](https://github.com/HyperQR/HyperBeast) from [TFAGaming/DiscordJS-V14-Bot-Template](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template)
+4. ![fork] Forked [HyperQR/Shop-Managerx](https://github.com/HyperQR/Shop-Managerx) from [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
+5. ![fork] Forked [HyperQR/Hypers-Manager](https://github.com/HyperQR/Hypers-Manager) from [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
+6. ![release] Released [SSH to Actions](https://github.com/HyperQR/ssh2actions-1/releases/tag/12.000) in [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1)
+7. ![release] Released [SSH to Actions](https://github.com/HyperQR/ssh2actions-1/releases/tag/3.0.0) in [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1)
+8. ![fork] Forked [HyperQR/ssh2actions-1](https://github.com/HyperQR/ssh2actions-1) from [rdp-studio/ssh2actions](https://github.com/rdp-studio/ssh2actions)
+9. ![fork] Forked [HyperQR/ssh2actions](https://github.com/HyperQR/ssh2actions) from [P3TERX/ssh2actions](https://github.com/P3TERX/ssh2actions)
+10. ![issueOpened] Opened issue [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stats
